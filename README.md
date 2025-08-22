@@ -104,6 +104,28 @@ Click the badge below to open the notebook directly in Colab:
 
 ---
 
+📌 Future Improvements
+
+- Experiment with advanced classifiers (Random Forest, XGBoost, Neural Networks).
+- Implement real-time streaming using Spark Streaming.
+- Hyperparameter tuning for better accuracy.
+- Deploy as a REST API for cloud environments.
+
+---
+
+⏱️ Note on Execution Time
+
+- Sklearn Execution:
+Sklearn runs locally using in-memory computations. Since the dataset fits in memory, computations are faster and overhead is minimal. This is why Parts 1 and 3 (Sklearn) show very low execution times.
+
+- Spark Execution:
+Spark is designed for distributed computing and big data. It introduces overhead for task scheduling, serialization, and cluster management, even on a single machine. This is why Parts 2 and 4 (Spark MLlib) take longer to execute despite similar operations.
+
+Summary: Sklearn is faster for medium-sized datasets due to in-memory processing, while Spark is more scalable and suitable for very large datasets or distributed environments.
+
+
+
+
 
 
 
