@@ -21,9 +21,8 @@ The project uses the **UNSW-NB15 Dataset**, created by the Australian Centre for
 
 It contains **100 GB of network traffic data**, processed into **2,540,044 records with 49 features** representing both normal and malicious traffic.  
 
-For this project, we used the following subsets:  
+For this project, we used the following subset:  
 - `UNSW_NB15_training-set.csv`  
-- `UNSW_NB15_testing-set.csv`  
 
 ---
 
@@ -105,11 +104,7 @@ Click the badge below to open the notebook directly in Colab:
 
 ---
 
-### **Run Locally**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUserName/YourRepoName.git
-   cd YourRepoName
+
 
 
 
