@@ -4,8 +4,7 @@ This project implements a Real-Time Intrusion Detection System (IDS) using the U
 
 # Real-Time Intrusion Detection System for Cloud Security using Spark
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanshekk/Real-Time-Intrusion-Detection-System-for-Cloud-Security-using-Spark/blob/main/IDS_Spark.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanshekk/Real-Time-Intrusion-Detection-System-for-Cloud-Security-using-Spark/blob/main/Real_Time_Intrusion_Detection_System_for_Cloud_Security_using_Spark.ipynb)
 
 ## 📌 Overview
 This project implements a **Real-Time Intrusion Detection System (IDS)** for cloud security using **Apache Spark** and the **UNSW-NB15 dataset**.  
@@ -101,7 +100,7 @@ Key Results:
 
 ### **Run in Google Colab**
 Click the badge below to open the notebook directly in Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanshekk/Real-Time-Intrusion-Detection-System-for-Cloud-Security-using-Spark/blob/main/IDS_Spark.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanshekk/Real-Time-Intrusion-Detection-System-for-Cloud-Security-using-Spark/blob/main/Real_Time_Intrusion_Detection_System_for_Cloud_Security_using_Spark.ipynb)
 
 ---
 
